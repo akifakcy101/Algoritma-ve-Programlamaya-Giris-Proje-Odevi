@@ -1,0 +1,3 @@
+C:/Users/akifa/OneDrive/Masaüstü/AlgoritmaProje/cmake-build-debug/CMakeFiles/AlgoritmaProje.dir
+C:/Users/akifa/OneDrive/Masaüstü/AlgoritmaProje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/akifa/OneDrive/Masaüstü/AlgoritmaProje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
